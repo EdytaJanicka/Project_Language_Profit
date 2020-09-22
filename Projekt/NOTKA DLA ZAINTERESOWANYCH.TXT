@@ -1,0 +1,34 @@
+1. UWAGA!!!
+Żeby strona wyświetlała się poprawnie należy zaimplementować bazę danych do serwera
+
+2. Ogólnie to tak:
+
+login i hasło administratora:
+admin
+aDministrator*
+
+login i hasło użytkownika:
+Edyta
+Janicka123
+
+3. Z ważnych rzeczy:
+Działa logowanie się, rejestracja, dodawanie/usuwanie/aktualizacja użytkowników
+Poza tym działa również dodawanie nowych słówek, oraz funkcjonalnie cały panel użytkownika
+Wraz z dostępem do sprawdzenia swoich umiejętności.
+
+Nie działa usuwanie/aktualizowanie słówek, nie wiem do końca dlaczego, użyłam tego samego sposobu do
+przekazania zmiennej co w usuwaniu/aktualizowaniu użytkowników, ale jednak coś jest nie ten teges.
+
+4. Poza tym:
+W Zakładce Test strony nie są kopiami zakładki Kursy, ale po najechaniu na fiszkę pokazuje nam się input, po
+wpisaniu i naciśnięciu enter, prawdiłowe słówko zmieni nam kolor fiszki i zaktualizuje dane w panelu.
+
+Miałam kilka problemów szczególnie z tym przekazaniem zmiennej, w pliku panel_admin umieściłam nawet komentarz,
+
+
+Ogólnie to fajny projekt, nie interesuje się za bardzo stronami internetowymi, ale kiedy kod stykał i działało
+to fajnie było widzieć efekty swojej pracy. Stron internetowych raczej więcej robić nie będę chyba, że
+na kolejnych projektach na Pana zajęciach w Da Vincii ;D
+
+
+P.S Tak wiem, mam bajzel w plikach
